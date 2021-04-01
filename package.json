@@ -1,0 +1,10 @@
+{
+  "name": "emoji-to-shortname",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vincent Voyer",
+  "license": "MIT",
+  "devDependencies": {
+    "got": "11.8.2"
+  }
+}
