@@ -4,6 +4,8 @@
   "main": "index.js",
   "author": "Vincent Voyer",
   "license": "MIT",
+  "homepage": "https://github.com/vvo/emoshort",
+  "description": "emoji to short name converter",
   "devDependencies": {
     "got": "11.8.2"
   }
