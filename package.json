@@ -1,5 +1,5 @@
 {
-  "name": "emoji-to-shortname",
+  "name": "emoshort",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Vincent Voyer",
