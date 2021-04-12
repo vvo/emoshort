@@ -6,5 +6,8 @@ Simple emoji to shortname converter.
 import emojis from "emoshort";
 
 console.log(emojis["🙌"]);
-// 'raised_hands'
+// ':raised_hands:'
+
+console.log(emojis["🙌🏽"]);
+// ':raised_hands::skin-tone-4:'
 ```
